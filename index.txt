@@ -1,0 +1,7 @@
+Arquivo para teste do git com comandos.
+
+q
+x
+
+
+
